@@ -1,4 +1,4 @@
-## 🐾 Codeleese — Type Like a Villager
+## 🐾 Animalese — Type Like a Villager
 
 > Why type in silence when you could sound like a babbling Animal Crossing™ character?
 
